@@ -1,0 +1,2 @@
+# TallerCardedeu
+Projecte Taller Ginebro
